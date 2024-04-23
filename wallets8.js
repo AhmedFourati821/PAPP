@@ -1,4 +1,4 @@
-{
+let wallets = {
     "whitelist1": [
         "0xafbdec0ba91fdff03a91cbdf07392e6d72d43712",
         "0x79ea42e97324b8f63b74039aaf825d3a134b9075",
