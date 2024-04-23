@@ -70,7 +70,7 @@ contract test is ERC721A, ERC2981, Ownable(msg.sender), ReentrancyGuard {
     }
 
     function getPhaseProps(uint8 phase)
-        internal
+        public
         view
         returns (PhaseProps memory)
     {
